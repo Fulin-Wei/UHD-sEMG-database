@@ -16,8 +16,8 @@ For the details of this version CSL, you can refer to the Juan Cheng’s article
 **``The sEMG signals of 13 gestures towards 3 positions were collected in 6 days. ``** 
 Thus, there are six files E1-E6 and three sub files U, H,D, for each subject, corresponding to six days and three positions for each one. 
 At the same time, each sub file has 13 signal data sets, in the form of .mat, representing 13 hand gestures.
-![]https://github.com/Fulin-Wei/UHD-sEMG-database/blob/master/picture/handshape.jpg
-![] https://github.com/Fulin-Wei/UHD-sEMG-database/blob/master/picture/gesture.jpg 
+![](https://github.com/Fulin-Wei/UHD-sEMG-database/blob/master/picture/handshape.jpg)
+![](https://github.com/Fulin-Wei/UHD-sEMG-database/blob/master/picture/gesture.jpg)
 These are the predefined 13 gestures and 3 positions.
 
 ## Data Acquisition and Preprocessing
@@ -30,7 +30,8 @@ These are the predefined 13 gestures and 3 positions.
 system, 6 electrode locations were chosen. When collecting 13 hand gestures data for each time, each subject was instructed to perform each gesture (with their palm inward) within each position in the way of “relaxation-contraction-relaxation".
 Each gesture execution was lasting about 4 seconds, called a trial, and it took about 80% of the maximum voluntary contraction (MVC) with respect to the hand grasp gesture. For each type of gesture, six trials were collected. 
 This procedure was repeated six times during six different days for each subject.
-![]https://github.com/Fulin-Wei/UHD-sEMG-database/blob/master/picture/electrode_placement.pdf This is an illustration of electrode_placement.
+![](https://github.com/Fulin-Wei/UHD-sEMG-database/blob/master/picture/electrode_placement.pdf)
+This is an illustration of electrode_placement.
 
 >###Preprocessing
 

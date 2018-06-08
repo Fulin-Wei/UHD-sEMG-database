@@ -30,7 +30,7 @@ These are the predefined 13 gestures and 3 positions.
 system, 6 electrode locations were chosen. When collecting 13 hand gestures data for each time, each subject was instructed to perform each gesture (with their palm inward) within each position in the way of “relaxation-contraction-relaxation".
 Each gesture execution was lasting about 4 seconds, called a trial, and it took about 80% of the maximum voluntary contraction (MVC) with respect to the hand grasp gesture. For each type of gesture, six trials were collected. 
 This procedure was repeated six times during six different days for each subject.
-![](https://github.com/Fulin-Wei/UHD-sEMG-database/blob/master/picture/electrode_placement.pdf) 
+![](https://github.com/Fulin-Wei/UHD-sEMG-database/blob/master/picture/electrode_placement.jpg) 
 This is an illustration of electrode_placement.
 
 >###Preprocessing

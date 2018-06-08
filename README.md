@@ -19,6 +19,7 @@ At the same time, each sub file has 13 signal data sets, in the form of .mat, re
 
 ## Data Acquisition and Preprocessing
 ==========
+
 ###The Device of Data acquisition and procedure
 
 Delsys Trigno Lab Wireless System (Delsys Inc, Boston, USA) was employed to acquire sEMG signals with ``a sampling rate of 1927 Hz.`` According to the neuromuscular control

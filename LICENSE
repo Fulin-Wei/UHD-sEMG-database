@@ -1,7 +1,15 @@
-This is free and unencumbered database released into the public domain.
+#Copyright Notes
 
+The database is released for research and educational purposes. 
+This is free and unencumbered database released into the public domain.
 Anyone is free to copy, modify, publish, use this sEMG database, 
 either in original data or pre-processed data form or as a processed form, 
 for any purpose, but non-commercial.
+We hold no liability for any undesirable consequences of using the database. 
+All rights of the UHD sEMG Database are reserved.
 
-If you want to use this database, please refer to this paper"[Cheng J, Chen X, Liu A, et al. A Novel Phonology- and Radical-Coded Chinese Sign Language Recognition Framework Using Accelerometer and Surface Electromyography Sensors[J]. Sensors, 2015, 15(9):23303-23324.]."
+#Citation
+
+If you use this database, please refer to and cite the following paper:
+
+this paper"[Cheng J, Chen X, Liu A, et al. A Novel Phonology- and Radical-Coded Chinese Sign Language Recognition Framework Using Accelerometer and Surface Electromyography Sensors[J]. Sensors, 2015, 15(9):23303-23324.]."

@@ -1,3 +1,6 @@
+Noted： 
+Cheng J, Wei F, Li C, et al. Position-independent gesture recognition using sEMG signals via canonical correlation analysis[J]. Computers in biology and medicine, 2018, 103: 44-54.
+
 # UHD-sEMG-database
 
 ==========
